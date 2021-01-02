@@ -2,5 +2,6 @@
 
 # Purpose
 
-To analysise data depending on latitude and longitude.
+To analyze data depending on latitude and longitude.
 
+# Analy
